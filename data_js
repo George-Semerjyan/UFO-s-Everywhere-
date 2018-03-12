@@ -1,0 +1,128 @@
+var dataSet = [
+    {
+      datetime: "1/1/2010",
+      city: "benton",
+      state: "ar",
+      country: "us",
+      shape: "circle",
+      durationMinutes: "5 mins.",
+      comments: "4 bright green circles high in the sky going in circles then one bright green light at my front door."
+    },
+    {
+      datetime: "1/1/2010",
+      city: "bonita",
+      state: "ca",
+      country: "us",
+      shape: "light",
+      durationMinutes: "13 minutes",
+      comments: "Three bright red lights witnessed floating stationary over San Diego New Years Day 2010"
+    },
+    {
+      datetime: "1/1/2010",
+      city: "el cajon",
+      state: "ca",
+      country: "us",
+      shape: "triangle",
+      durationMinutes: "6 minutes",
+      comments: "On New Years Eve I went outside to hear the celebration and fireworks in my neighbor hood. And noticed 3 red lights above my house and"
+    },
+    {
+      datetime: "6/27/2012",
+      city: "albuquerque",
+      state: "nm",
+      country: "us",
+      shape: "other",
+      durationMinutes: "~1 minute",
+      comments: "White flashing fading light in the sky"
+    },
+    {
+      datetime: "6/27/2012",
+      city: "o&#39fallon",
+      state: "mo",
+      country: "us",
+      shape: "circle",
+      durationMinutes: "3 minutes",
+      comments: "Glowing orange flying object with black haze surrounding it."
+    },
+    {
+      datetime: "6/27/2012",
+      city: "parkton",
+      state: "nc",
+      country: "us",
+      shape: "light",
+      durationMinutes: "2 hours",
+      comments: "Orange ball of light"
+    },
+    {
+      datetime: "10/18/2013",
+      city: "sarasota",
+      state: "fl",
+      country: "us",
+      shape: "fireball",
+      durationMinutes: "2-3 minutes",
+      comments: "Bright red solid lights in sky - two"
+    },
+    {
+      datetime: "10/18/2013",
+      city: "lawrenceville",
+      state: "ga",
+      country: "us",
+      shape: "other",
+      durationMinutes: "3 minutes",
+      comments: "We saw reddish-orange orb-like round lights about the size of softballs in the sky moving at a low altitude in two distinct groups of 5"
+    },
+    {
+      datetime: "10/18/2013",
+      city: "sarasota",
+      state: "fl",
+      country: "us",
+      shape: "light",
+      durationMinutes: "2-15 minutes",
+      comments: "Viewed 5 orange colored lights in sky slightly larger than stars&#44 they were gone 15 minutes later."
+    },
+     {
+      datetime: "5/7/2014",
+      city: "visalia",
+      state: "ca",
+      country: "us",
+      shape: "fireball",
+      durationMinutes: "3 minutes",
+      comments: "Strange&#44 slowly moving fireball like object in the sky."
+    },
+    {
+      datetime: "5/7/2014",
+      city: "theodore",
+      state: "al",
+      country: "us",
+      shape: "circle",
+      durationMinutes: "few minutes",
+      comments: "Driving home and entered my neighborhood and saw 2 blinking lights in sky &#44 to close to be airplanes. Then later was outside with 2 oth"
+    },
+    {
+      datetime: "5/7/2014",
+      city: "naugatuck",
+      state: "ct",
+      country: "us",
+      shape: "unknown",
+      durationMinutes: "5 minutes",
+      comments: "Large formation of lights in western sky&#44 flying north to south..."
+    },
+    {
+      datetime: "5/7/2014",
+      city: "hillsboro",
+      state: "mo",
+      country: "us",
+      shape: "fireball",
+      durationMinutes: "4-6 minutes",
+      comments: "Round slow moving silent ball looked like a candlelight.  Northbound."
+    },
+    {
+      datetime: "5/8/2014",
+      city: "memphis",
+      state: "tn",
+      country: "us",
+      shape: "rectangle",
+      durationMinutes: "15 minutes",
+      comments: "Standing at my window around 0:00 brilliantly lit objects the size of aircraft carriers&#44 passed by&#44 one by one."
+    }
+  ];
